@@ -1,0 +1,6 @@
+@TLSPL_ProdutBackEnd_HostAddress = http://localhost:5288
+
+GET {{TLSPL_ProdutBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
